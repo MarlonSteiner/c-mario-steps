@@ -1,6 +1,8 @@
 # CS50 Problem Set: Mario
 
-This is a solution to the "Mario" problem set from Harvard's CS50 course. If you are taking CS50 and have not solved it yet- do not copy! The problem requires creating a program in C that prints out a pyramid of hashtags, similar to the iconic pyramid from the game Super Mario Bros.
+This is a solution to the "Mario" problem set from Harvard's CS50 course. Copying this data and using it for your submission will breach the academic honesty https://cs50.harvard.edu/x/2020/honesty/ policy of CS50.
+
+The problem requires creating a program in C that prints out a pyramid of hashtags, similar to the iconic pyramid from the game Super Mario Bros.
 
 ## Description
 
