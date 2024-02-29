@@ -19,13 +19,10 @@ The program prompts the user for the height of the pyramid and then prints out t
 3. Navigate to the repository directory:
   `cd cs50-mario`
 
-4. Compile the program:
-   `gcc mario.c -o mario -lcs50`
-
-5. Run the program:
+4. Run the program:
    `./mario`
 
-6. Follow the prompts to enter the height of the pyramid.
+5. Follow the prompts to enter the height of the pyramid.
  ```bash
    Height: 5
       #  #
